@@ -8,5 +8,5 @@ Score Tracking: Keep track of your score based on the amount of food collected.
 Technologies Used
 Java,Java Script
 HTML,CSS
-# Link for the file
+## Link for the file
 https://hiteshnoone.github.io/Snake-Game/
